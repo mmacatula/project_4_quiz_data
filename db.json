@@ -1,0 +1,232 @@
+"HTMLQuiz": [     
+        {
+          "id": 1,
+          "question_type": "MC",
+          "question": "Which of the following is the current HTML standard??",
+          "options": {
+            "optiona": "HTML",
+            "optionb": "HTMLX",
+            "optionc": "HTML5",
+            "optiond": "HTML4"
+          },
+          "correct_answer": "D",
+          "explanation": "The current standard for HTML is HTML5"
+        },
+        
+        {
+          "id": 2,
+          "question_type": "MC",
+          "question": "All HTML code must be nested within which of the following tags??",
+          "options": {
+            "optiona": "<html>",
+            "optionb": "*html*",
+            "optionc": "/html/",
+            "optiond": "<div>"
+          },
+          "correct_answer": "A",
+          "explanation": "All HTML code must be nested within a <html> tag"
+        },
+        
+        {
+          "id":3,
+          "question_type": "MC",
+          "question": "The acronym HTML stands for which of the following?",
+          "options": {
+            "optiona": "Hyper Take Maker Language",
+            "optionb": "Hyper Token Marker Language ",
+            "optionc": "Hypertext Markup Language",
+            "optiond": "Hyper Textmarkup Language"
+          },
+          "correct_answer": "C",
+          "explanation": "HTML stands for Hypertext Markup Language"
+        },
+        
+        {
+          "id":4,
+          "question_type": "TF",
+          "question": "Multiple radio buttons in the same group can be set to a checked state at the same time",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "Only one radio button in the same group can be in the checked state at a time"
+        },
+        
+        {
+          "id":5,
+          "question_type": "Fill In",
+          "question": "Which tag represents a numbered list?",
+          "correct_answer": "<ol>",
+          "explanation": "<ol> stands for 'ordered list' which can be rendered as a numbered list"
+        },
+        
+        {
+          "id":6,
+          "question_type": "TF",
+          "question": "Tables can be used to position text and images",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "A",
+          "explanation": "A table is a good way to organize text and images in different positions"
+        },
+        
+        {
+          "id":7,
+          "question_type": "MC",
+          "question": "How many different heading elements does HTML support?",
+          "options": {
+            "optiona": "1",
+            "optionb": "3",
+            "optionc": "6",
+            "optiond": "12"
+          },
+          "correct_answer": "C",
+          "explanation": "HTML can support 6 different heading elements"
+        },
+        
+        {
+          "id":8,
+          "question_type": "TF",
+          "question": "A text editor creates the HTML code for you as you add elements to the Web Page",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "A text editor does not create the HTML code for you"
+        },
+        
+        {
+          "id":9,
+          "question_type": "MC",
+          "question": "What are two components of HTML attributes?",
+          "options": {
+            "optiona": "Name, Value",
+            "optionb": "Amount, Title",
+            "optionc": "Call, Sign",
+            "optiond": "In, Out"
+          },
+          "correct_answer": "A",
+          "explanation": "Name and Value are components of HTML attributes"
+        },
+        
+        {
+          "id":10,
+          "question_type": "Fill In",
+          "question": "Which tag can be used to add a paragraph?",
+          "correct_answer": "<p>",
+          "explanation": "<p> initiates a paragraph"
+          },
+          
+        {
+          "id":11,
+          "question_type": "MC",
+          "question": "According to the W3C recommendation, what's the appropriate way of indenting nested HTML elements?",
+          "options": {
+            "optiona": "1 space",
+            "optionb": "2 spaces",
+            "optionc": "2 tabs",
+            "optiond": "All of the above"
+          },
+          "correct_answer": "B",
+          "explanation": "The recommended way of indenting is 2 spaces "
+        },
+        
+        {
+          "id":12,
+          "question_type": "TF",
+          "question": "video clips are unlikely to have a large file size",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "Video files tend to be large in file size"
+        },
+        
+        {
+          "id":13,
+          "question_type": "TF",
+          "question": "CSS considers every HTML5 element to be enclosed in a line",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "CSS considers every HTML5 element to be enclosed in a box"
+        },
+        
+        {
+          "id":14,
+          "question_type": "MC",
+          "question": "A family of styling specifications with a common name is called a:",
+          "options": {
+            "optiona": "Class",
+            "optionb": "Group",
+            "optionc": "Flock",
+            "optiond": "Family"
+          },
+          "correct_answer": "A",
+          "explanation": "A family of styling specifications with a common name is called a Class"
+        },
+        
+        {
+          "id":15,
+          "question_type": "Fill In",
+          "question": "The preferred way to specify a break that continues the text on the next line in a Web page is?",
+           "correct_answer": "<br/>",
+          "explanation": "<br/> is the recommended way to specify a break "
+          },
+        
+        {
+          "id":16,
+          "question_type": "Fill In",
+          "question": "To create a Web page with a list of HTML commands and their tags, it would be best use:",
+          "correct_answer": "A definition list",
+          "explanation": "A definition list the best way to create a web page with a list of HTML commands and their tags"
+        },
+        
+        {
+          "id":17,
+          "question_type": "Fill In",
+          "question": "The tags used to specify table headings/column headings are:",
+          "correct_answer": "<th> and </th>",
+          "explanation": "<th> and </th> are the tags used to specify table/column headings"
+        },
+        
+        {
+          "id":18,
+          "question_type": "TF",
+          "question": "Microsoft Explorer is an example of an open source browser",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "Firefox is an example of an open source"
+        },
+        
+        {
+          "id":19,
+          "question_type": "Fill In",
+          "question": "Computer experts call spaces that have been inserted for readability",
+          "correct_answer": "white space",
+          "explanation": "Computer experts call spaces that have been inserted for readability: white space"
+        },
+        
+        {
+          "id":20,
+          "question_type": "TF",
+          "question": "The width of a line of text on a Webpage is determined by the size of the text used",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "The width of a line usually depends on the size of the browser window. It also depends on the screen resolution"
+        }
+     ]
+}
