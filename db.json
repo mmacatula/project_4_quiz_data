@@ -10,7 +10,7 @@
             "optionc": "HTML5",
             "optiond": "HTML4"
           },
-          "correct_answer": "D",
+          "correct_answer": "C",
           "explanation": "The current standard for HTML is HTML5"
         },
         
@@ -19,13 +19,13 @@
           "question_type": "MC",
           "question": "All HTML code must be nested within which of the following tags??",
           "options": {
-            "optiona": "<html>",
-            "optionb": "*html*",
-            "optionc": "/html/",
-            "optiond": "<div>"
+            "optiona": "html",
+            "optionb": "page",
+            "optionc": "doc",
+            "optiond": "div"
           },
           "correct_answer": "A",
-          "explanation": "All HTML code must be nested within a <html> tag"
+          "explanation": "All HTML code must be nested within a html tag"
         },
         
         {
@@ -58,8 +58,8 @@
           "id":5,
           "question_type": "Fill In",
           "question": "Which tag represents a numbered list?",
-          "correct_answer": "<ol>",
-          "explanation": "<ol> stands for 'ordered list' which can be rendered as a numbered list"
+          "correct_answer": "ol",
+          "explanation": "ol stands for 'ordered list' which can be rendered as a numbered list"
         },
         
         {
@@ -118,8 +118,8 @@
           "id":10,
           "question_type": "Fill In",
           "question": "Which tag can be used to add a paragraph?",
-          "correct_answer": "<p>",
-          "explanation": "<p> initiates a paragraph"
+          "correct_answer": "p",
+          "explanation": "p initiates a paragraph"
           },
           
         {
@@ -178,8 +178,8 @@
           "id":15,
           "question_type": "Fill In",
           "question": "The preferred way to specify a break that continues the text on the next line in a Web page is?",
-           "correct_answer": "<br/>",
-          "explanation": "<br/> is the recommended way to specify a break "
+           "correct_answer": "br/",
+          "explanation": "br/ is the recommended way to specify a break "
           },
         
         {
@@ -194,8 +194,8 @@
           "id":17,
           "question_type": "Fill In",
           "question": "The tags used to specify table headings/column headings are:",
-          "correct_answer": "<th> and </th>",
-          "explanation": "<th> and </th> are the tags used to specify table/column headings"
+          "correct_answer": "th",
+          "explanation": "th is the tag used to specify table/column headings"
         },
         
         {
